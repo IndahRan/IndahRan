@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Indah Putri Maharani</h1>
+<h1 align="center">Hi 👋 I'm Indah Putri Maharani</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Laravel, IoT, Full Stack Developer**
