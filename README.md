@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Indah Putri Maharani</h1>
-<h3 align="center">Passionate.</h3>
+<h3 align="center">Always cheerful and enthusiastic about technological developments</h3>
 
 ## 🚀 About Me
 - 🎓 Bachelor of **Computer Science** at Telkom University.
