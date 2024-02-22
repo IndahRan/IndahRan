@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 - 🎓 Bachelor of **Computer Science** at Telkom University.
-- 👨‍💻 I am very enthusiastic about learning new technologies, such as **machine learning, artificial intelligence, and IoT**. I really like it when technology can be integrated with tools for people's daily needs so that they can help and solve problems.
+- 👨‍💻 I am very enthusiastic about learning new technologies, such as **Machine Learning, Artificial Intelligence, and IoT**. I really like it when technology can be integrated with tools for people's daily needs so that they can help and solve problems.
 - 📚 I also love reading books or some article. The genres that I like are horror, action, thriller, fiction and romance.
 - 📫 How to reach me **indahrani08@gmail.com**
 - ⚡ Fun fact **Food and Cat Lover**
